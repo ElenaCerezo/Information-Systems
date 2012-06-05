@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/widgets/renderer.js",
+			"settings":
+			{
+				"buffer_size": 5444,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/main/views/main.html",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/main/index.html",
+			"settings":
+			{
+				"buffer_size": 5717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/main/views/prove.html",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/common/js/i18n/i18n.js",
+			"settings":
+			{
+				"buffer_size": 6411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/main/js/main.js",
+			"settings":
+			{
+				"buffer_size": 572,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/apache-tomcat-6/webapps/www-inventario/components/main/views/main.html",
+		"/C/apache-tomcat-6/webapps/www-inventario/components/main/js/main.js",
+		"/C/apache-tomcat-6/webapps/www-inventario/js/widgets/renderer.js",
+		"/C/apache-tomcat-6/webapps/www-inventario/components/main/index.html",
+		"/C/apache-tomcat-6/webapps/www-inventario/css/main.css",
+		"/C/apache-tomcat-6/webapps/www-inventario/js/widgets/validator.js",
+		"/C/apache-tomcat-6/webapps/www-sgd2012/js/widgets/validator.js",
+		"/C/apache-tomcat-6/webapps/www-inventario/js/widgets/acl.js",
+		"/C/apache-tomcat-6/webapps/www-inventario/components/common/js/i18n/i18n.js",
+		"/C/apache-tomcat-6/webapps/www-inventario/js/widgets/messages.js",
+		"/C/apache-tomcat-6/webapps/www-guser/components/main/js/controller/main.js",
+		"/C/apache-tomcat-6/webapps/www-sgd2012/components/main/index.html",
+		"/C/apache-tomcat-6/webapps/www-inventario/js/widgets/paginator.js",
+		"/C/apache-tomcat-6/webapps/www-guser/components/common/css/main.css",
+		"/C/apache-tomcat-6/webapps/www-inventario/components/common/css/main.css",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/common/js/controller/helper/acl.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/common/js/controller/helper/http_request.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/js/controller/main.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/index.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/css/main.css",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/main.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/js/controller/main.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/survey/js/controller/main.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/user_evaluation.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/empty_freeObjective.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/employee_evaluation/views/employee_evaluation.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/helper/renderer.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/helper/paginator.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/common/js/i18n/i18n.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/common/js/controller/helper/excel_helper.js",
+		"/C/apache-tomcat-6/webapps/www-guser/css/tid-theme/jquery-ui-1.8.12.custom.css",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/common/css/main.css",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/common/js/controller/helper/helper.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/helper/helpers.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/user_evaluation.html.xxxx",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/js/controller/main.js.xxx",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/self_evaluation/js/controller/main.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/helper/messages.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/surveys.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/survey_tabs.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/helper/common_errors.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/helper/text_enhacer.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/common/services.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/js/controller/main.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/survey.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/poll.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/views/main.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/employee_evaluation/js/controller/main.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/views/messages.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/evaluation/index.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/poll/index.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/js/controller/helper/helper.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/views/messages.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/css/styleGADICO.css",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/js/controller/helper/acl.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/css/main.css",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/helper/messages.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/helper/renderer.js",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/js/controller/main.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/js/controller/helper/http_request.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/helper/http.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/views/user_evaluation.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/common/css/styleSGD.css",
+		"/C/apache-tomcat-6/webapps/www-sgd/js/i18n/i18n.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/js/i18n/i18n.js",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/views/user_list.html",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/css/styleSGD.css",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/css/main.css",
+		"/C/apache-tomcat-6/webapps/www-sgd/components/main/views/user_evaluation.html.mine",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/helper/datepicker.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/helper/helpers.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/invoices.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/invoiceType/D.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/invoiceType/A.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/invoiceType/G.html",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/css/styleBI.css",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/upload.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/file_link.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/search.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/messages.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/invoiceType.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/new_leader.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/main.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/register.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/js/i18n/i18n.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/index.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/css/main.css",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/common/services.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/pending.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/helper/store.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/helper/datasource.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/helper/http.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/helper/browser_checker.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/invoices_empty.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/item/DISP.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/item/ACT.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/forms/item/EXP.html",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/views/messages.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/views/invoicesEmpty.html",
+		"/C/apache-tomcat-6/webapps/www-gadico/js/i18n/i18n.js",
+		"/C/devsitid/trunk/www-neotool/js/helper/acl.js",
+		"/C/apache-tomcat-6/webapps/www-gadico/components/main/js/main.js",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/views/results/classes/DEM.html",
+		"/C/apache-tomcat-6/webapps/www-bi/js/common/services.js",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/js/controller/helper/helper.js",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/views/results/initiative_list.html",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/views/initiatives/initiatives.html",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/views/initiatives/descriptor.html",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/views/initiatives/initiative.html",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/views/areas/areas.html",
+		"/C/Documents and Settings/ggarri/Datos de programa/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/ggarri/Datos de programa/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/apache-tomcat-6/webapps/www-bi/components/main/views/main.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\apache-tomcat-6\\webapps\\www-bi\\components\\main,C:\\apache-tomcat-6\\webapps\\www-bi",
+			"C:\\apache-tomcat-6\\webapps\\www-bi\\components\\main",
+			"si_20",
+			"C:\\apache-tomcat-6\\webapps\\www-bi\\components\\main",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this.",
+			"this.$element",
+			"$elem",
+			"$ele",
+			"initWith",
+			"extend_data",
+			"add_replace_vars",
+			"add_localization",
+			"contr",
+			"loadEmployee",
+			"notify",
+			"87",
+			"sidebar",
+			"pager",
+			"getEvaluationProperties",
+			"empty_f",
+			"initiative_collective_objectives",
+			"objectives",
+			"initiative_collective_objectives",
+			".content",
+			"table",
+			"incorrect_date",
+			"focus",
+			"ul",
+			"initiativeValue",
+			".initiativeGoalV",
+			"calculated",
+			"collaborationGoalValue_calculated",
+			"activityGoalValue_calculated",
+			"individualDevelopmentValue",
+			"incorrect_individual_development_value_total",
+			"desarrollo in",
+			"individualDevelopmentValue",
+			"individualDe",
+			"freeOb",
+			"initiativeValue_calculated",
+			"ObjectiveValue_calculated",
+			"objectiveValue_calculated",
+			"freeObjectiveValue_calculated",
+			"objectiveValue_calculated",
+			"estimatedT",
+			"render",
+			"estimatedTarget",
+			"target",
+			"messages",
+			"callback",
+			"elementOptions",
+			".Pager",
+			"objectivos",
+			"collaborationGoalList",
+			"console.lo",
+			"estimated_target_calculated",
+			"objectiveValue",
+			"estimated_target",
+			".estimatedTarget",
+			"estimatedTarget",
+			"initiativeGoalValue",
+			"collaboration",
+			"initiativeGoalValue",
+			"individualDevelopmentValue",
+			"performanceR",
+			"twipsy",
+			"pop",
+			".filter",
+			"loadInitialValues",
+			"loadInitialValues();",
+			"loadInitialValues",
+			"keyup",
+			"loadRich",
+			"loadRick",
+			"loadRichTextEditor",
+			"removeR",
+			"remove",
+			"text_enhacer",
+			"removeRichTextEditor",
+			"render",
+			"loadRichTextEditor",
+			"notify_employee_success",
+			"notify_employee",
+			"global_feedback_additional",
+			"performanceRationale",
+			"initiativeGoalValue",
+			"individualDevelopmentValue",
+			"mandatory",
+			"pagination",
+			"no_visible_evaluation",
+			"available_evaluation_employee",
+			"updateTotalInitiative",
+			"aspects_assess",
+			"update",
+			"number",
+			"key",
+			"end_date",
+			"ilegal_access",
+			"empty_survey_description",
+			"survey_",
+			"loadSurveys",
+			".pol",
+			"poll_tabs",
+			"poll",
+			"polls",
+			"poll",
+			"survey",
+			"trigger",
+			"showPolls",
+			"openEvaluationPeriod",
+			"incorrect_poll_total_weight",
+			"empty_poll_description",
+			"total",
+			"gatherSurveys",
+			"incorrect_poll_value",
+			"dedication",
+			"empty_self_evaluation",
+			"ilegal_access",
+			"btn:ho",
+			"buttons",
+			"showPolls",
+			"loadPollTabs",
+			"save",
+			"357",
+			"atherSurveys",
+			"userId",
+			"gather",
+			"scale_info",
+			"title",
+			"showPolls",
+			"240",
+			"284"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"objetivos",
+			"autoWholeCalculate",
+			"blur",
+			"perfomanceRationale",
+			"survey_tabs",
+			"survey",
+			"showPolls",
+			"poll_tabs",
+			"poll",
+			"survey_tabs",
+			"gatheringEvaluation",
+			"getEvaluationPollList",
+			"",
+			"checkInitiativeObjectivesItem",
+			"checkFreeObjectiveObjective",
+			"checkCollaborationGoalObjective",
+			"checkActivityGoalObjective",
+			"checkInitiativeObjectives",
+			"checkFreeObjectiveItem",
+			"checkInitiativeItem",
+			"total_initiatives_weight",
+			"totalInitiativesWeight",
+			"updateValueActivity",
+			"!$P",
+			"bindEvents",
+			"updateTotalInitiative",
+			"weight",
+			"0",
+			"info_block",
+			"section_header",
+			"",
+			"leaderComments",
+			"change_leader",
+			"\nend_date",
+			"\ninvoice_total",
+			"\ndd/mm/yyyy",
+			"\nhh:mm",
+			"\ndd/mm/yyyy",
+			"\n'{{_time_example}}'",
+			"\n'{{_date_example}}'",
+			"'{{_time_example}}'",
+			"'{{_date_example}}'",
+			"",
+			"líder",
+			"DISABLED",
+			"AVAILABLE",
+			"HIDDEN",
+			"acl_visibility.hidden",
+			"acl_visibility.disabled",
+			"acl_visibility.available",
+			"",
+			"visibility",
+			"leader",
+			"",
+			"visibility",
+			"display",
+			"acl.display"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/widgets/renderer.js",
+					"settings":
+					{
+						"buffer_size": 5444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/main/views/main.html",
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1246,
+								1246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/main/index.html",
+					"settings":
+					{
+						"buffer_size": 5717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4618,
+								4607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/main/views/prove.html",
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "components/common/js/i18n/i18n.js",
+					"settings":
+					{
+						"buffer_size": 6411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "components/main/js/main.js",
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

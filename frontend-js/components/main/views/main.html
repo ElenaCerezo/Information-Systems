@@ -1,0 +1,27 @@
+<div class="main_tabs">
+    <select class='language'>
+        <option value='es' onclick="setLanguage('es');">ES<img class="language_selector" src="../../images/es.png"></option>
+        <option value='en' onclick="setLanguage('en');">EN<img class="language_selector" src="../../images/en.png"></option>
+    </select>
+	<img src="../../images/logo-telefonica.png" alt="telefónica" class="logo" />
+	<a class="brand" href="#">{{_title}}</a>
+    <ul class="nav nav-tabs main">
+	    <li class="dropdown active">
+        	<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+            	{{_register}}
+            	<b class="caret"></b>
+        	</a>
+        	<ul class="dropdown-menu">
+        		<li><a data-toggle="tab" href="#staff">{{_staff}}</a></li>
+        		<li><a data-toggle="tab" href="#scholar">{{_scholar}}</a></li>
+        		<li><a data-toggle="tab" href="#collaborator">{{_collaborator}}</a></li>
+        		<li><a data-toggle="tab" href="#special">{{_special}}</a></li>
+        	</ul>
+        </li>
+		<li><a data-toggle="tab" href="#modification">{{_modification}}</a></li>
+        <li><a data-toggle="tab" href="#reincorporate">{{_reincorporate}}</a></li>
+        <li><a data-toggle="tab" href="#leave">{{_leave}}</a></li>
+        <li><a data-toggle="tab" href="#pending">{{_pending}}</a></li>
+    </ul>
+</div>
+

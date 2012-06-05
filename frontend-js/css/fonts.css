@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Telefonica";
+    font-style: normal;
+    font-weight: normal;
+    src: url("fonts/Telefonica.otf");
+}
+
+@font-face {
+    font-family: "TelefonicaL";
+    font-style: normal;
+    font-weight: normal;
+    src: url("fonts/TelefonicaH.otf");
+}
+
+@font-face {
+    font-family: "TelefonicaB";
+    font-style: normal;
+    font-weight: normal;
+    src: url("fonts/TelefonicaB.otf");
+}

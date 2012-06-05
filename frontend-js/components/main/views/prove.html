@@ -1,0 +1,27 @@
+{{_search}}
+<select class='city'>
+{{#cities}}
+    <option value='{{key}}'>{{name}}</option>
+{{/cities}}
+</select>
+
+<div class='countries' data-type='list'>
+	{{#countries}}
+	<div data-type='item'>
+		{{country}}
+		<div class='towns' data-type='list'>
+			<div data-type='item'>
+				<input class='id name' value='name' />
+			</div>
+		</div>
+		<select class='city'>
+		{{#cities}}
+		    <option value='{{key}}'>{{name}}</option>
+		{{/cities}}
+		</select>
+	</div>
+	{{/countries}}
+</div>
+
+<input type='input' class='selector sLabel' value='{{sLabel}}'/>
+<input type='hidden' class='sKey' value='{{sKey}}'/>

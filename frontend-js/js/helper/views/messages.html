@@ -1,0 +1,20 @@
+<div id="modal-message" class="modal hide fade">
+	<div class="modal-header">
+		<a href="#" class="close">&times;</a>
+		<h3>{{message_header}}</h3>
+	</div>
+	<div class="modal-body">
+		{{#messages}}
+			<span class='span7'>
+			<span class="label label-{{type}}">{{typeStr}}</span>
+			{{#param?}}
+				<b>{{param}}:</b>
+			{{/param?}}
+			{{message}}
+			</span>
+		{{/messages}}
+	</div>
+	<div class="modal-footer">
+		<button class="btn close">{{_close}}</button>
+	</div>
+</div>
